@@ -1,1 +1,1 @@
-react-dapp-boilerplate
+# My dApp
